@@ -98,5 +98,3 @@ Additional technical documentation is provided in this repository.
 Nothing in LigaPay™’s design, documentation, or operation should be interpreted as implying custody, control, or possession of user assets by LigaPay™ or its operators.
 
 ---
-
-**© LigaPay™ — Driven by ethics.**  
