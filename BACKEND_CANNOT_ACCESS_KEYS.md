@@ -1,8 +1,8 @@
 # LigaPay™ Backend Key Access Limitations
 
-**Effective Date:** January 2026  
 **Product:** LigaPay™  
-**Operating Entity:** Liga Techs, Inc. (doing business as LigaPay™)
+**Operating Entity:** Liga Techs, Inc. (doing business as LigaPay™)  
+**Last Updated:** January 2026
 
 ---
 
