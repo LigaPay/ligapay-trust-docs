@@ -25,3 +25,14 @@ Explains why LigaPay™ backend systems cannot access, control, reconstruct, or 
 - No custodial authority  
 - No backend signing capability  
 - User-controlled assets at all times
+
+## Scope & Limitations
+
+This repository documents the architectural principles and design constraints of LigaPay™’s strictly non-custodial wallet model.
+
+It is provided for transparency and partner due diligence purposes only and does not constitute:
+- a security audit,
+- a formal legal opinion, or
+- a guarantee of regulatory classification.
+
+This documentation reflects the non-custodial architecture as implemented in production at the time of publication.
