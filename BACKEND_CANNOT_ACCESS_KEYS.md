@@ -83,5 +83,3 @@ This design intentionally:
 LigaPay™ backend systems are structurally and operationally incapable of accessing user private keys or controlling user assets. Custody and control remain exclusively with the user at all times.
 
 ---
-
-**© LigaPay™ — Driven by ethics.**
