@@ -94,5 +94,3 @@ This architecture is intentionally designed to:
 - maintain clear regulatory boundaries.
 
 ---
-
-**© LigaPay™ — Driven by ethics.**
