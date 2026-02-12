@@ -2,7 +2,7 @@
 
 **Product:** LigaPay™  
 **Operating Entity:** Liga Techs, Inc. (doing business as LigaPay™)  
-**Last Updated:** January 2026
+**Last Updated:** February 2026
 
 ---
 
@@ -80,6 +80,6 @@ This design intentionally:
 
 ## Conclusion
 
-LigaPay™ backend systems are structurally and operationally incapable of accessing user private keys or controlling user assets. Custody and control remain exclusively with the user at all times.
+LigaPay™ backend systems are structurally and operationally incapable of accessing user private keys, authorizing transactions, or controlling user assets. Custody and control remain exclusively with the user at all times.
 
 ---
